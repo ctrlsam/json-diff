@@ -1,0 +1,15 @@
+pre {
+  background-color: ghostwhite;
+  border: 1px solid silver;
+  padding: 10px 20px;
+  margin: 20px; 
+  }
+
+.inserted {
+  color:green;
+}
+
+.deleted {
+  color:red;
+  text-decoration: line-through;
+}
